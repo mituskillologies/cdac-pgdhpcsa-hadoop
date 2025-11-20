@@ -1,0 +1,6 @@
+apple banana cherry apple
+pineapple banana mango
+strawberry banana banana
+apple mango cherry guava
+apple pineapple mango mango
+orange mango guava
